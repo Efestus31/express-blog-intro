@@ -15,3 +15,8 @@ app.get('/', (req, res) => {
 //configurazione degli asset statici 
 app.use(express.static('public'));
 
+//avvio server
+app.listen(port, () => {
+    console.log(`Server sta lavorando sulla porta: ${port}`);
+    
+})
