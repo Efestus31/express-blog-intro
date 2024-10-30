@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Il Meraviglioso Mondo della Natura",
+      "content": "Scopri le bellezze nascoste del nostro pianeta.",
+      "image": "natura.jpg",
+      "tags": ["natura", "avventura", "fotografia"]
+    },
+    {
+      "title": "Ricette Sane per Ogni Giorno",
+      "content": "Ecco alcune ricette veloci e salutari per la tua dieta.",
+      "image": "ricette.jpg",
+      "tags": ["cucina", "salute", "ricette"]
+    },
+    {
+      "title": "I Vantaggi della Meditazione",
+      "content": "Come la meditazione può migliorare la tua vita quotidiana.",
+      "image": "meditazione.jpg",
+      "tags": ["benessere", "meditazione", "mindfulness"]
+    },
+    {
+      "title": "Viaggio in Italia: I Luoghi Imperdibili",
+      "content": "Un itinerario attraverso le meraviglie italiane.",
+      "image": "italia.jpg",
+      "tags": ["viaggi", "Italia", "cultura"]
+    },
+    {
+      "title": "Tecnologia e Innovazione",
+      "content": "Le ultime tendenze nel mondo della tecnologia.",
+      "image": "tecnologia.jpg",
+      "tags": ["tecnologia", "innovazione", "futuro"]
+    }
+  ]
